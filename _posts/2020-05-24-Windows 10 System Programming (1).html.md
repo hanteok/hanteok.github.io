@@ -1,6 +1,6 @@
 ---
 title: “Windows 10 System Programmin”
-date: 2020-05-24 13:00:00 -0100
+date: 2020-05-24 13:00:00 0100
 ---
 
 <blockquote>
