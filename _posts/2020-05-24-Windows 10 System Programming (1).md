@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Windows 10 System Programming"
-subtitle: "chapter 1"
-date: 2020-05-24 23:45:13 -0400
+subtitle: "Chapter 1"
+date: 2020-05-24 18:45:13 -0400
 background: '/img/posts/01.jpg'
 ---
 
