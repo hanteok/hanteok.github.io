@@ -1,6 +1,6 @@
-title:              Lab
+title:              knowledge is power
 email:              lightnlight93@gmail.com
-description:        OS/Malware
+description:        low level knowledge, security analysist
 author:             hanteok
 baseurl:            ""
 url:                "https://hanteok.github.io"
@@ -12,7 +12,7 @@ facebook_username:
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+google_analytics:   UA-167485484-1 # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
