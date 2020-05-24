@@ -1,13 +1,12 @@
 ---
-
-
+title: “Windows 10 System Programmin”
+date: 2020-05-24 13:00:00 -0100
 ---
 
 <blockquote>
 <p>Windows System Programming</p>
 </blockquote>
-<p>title: “Dinosaurs are extinct today”</p>
-<p>date: 2017-10-26 23:45:13 -0400</p>
+
 <p>Windows 10 System Programming이라는 책을 최근에 접하게 되었다.<br>
 저자(Pavel Yosifovich)분은 Windows Kernel Programming 책을 얼마전에 집필하신 분이고 윈도우즈 커널에 대한 지식 해박하신 것 같다. (윈도우즈 이터널 7번째 개정판 저자)</p>
 <p>아마도 가장 널리 알려진 시스템 프로그래밍 책은 "제프리 리처의 Windows via C/C++"일 것이다. 아직까지도 인기가 시들지 않아 작년에는 복간판까지 출시하였다. 제프리 리처의 책에서는 Windows 10을 다루고 있지는 않지만, 윈도우의 기본 구조는 크게 다르지 않기 때문에 현재까지 꾸준한 사랑을 받고있다.</p>
